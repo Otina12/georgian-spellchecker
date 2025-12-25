@@ -43,3 +43,7 @@ coverage.xml
 
 # Logs
 *.log
+
+# Project-generated files
+*.pt
+*.txt
