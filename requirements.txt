@@ -1,4 +1,6 @@
 torch>=2.0.0
 matplotlib
 requests
+requests
+beautifulsoup4
 notebook
